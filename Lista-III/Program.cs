@@ -16,6 +16,7 @@ class Program
             Console.WriteLine("4 - Calculadora de Juros Compostos");
             Console.WriteLine("5 - Calculadora de Salário Bruto");
             Console.WriteLine("6 - Calculadora de Logaritmo");
+            Console.WriteLine("7 - Calculadora de Salário de Vendedor");
             Console.WriteLine("12 - Sair");
             Console.Write("Escolha uma opção: ");
 
@@ -45,6 +46,10 @@ class Program
 
                 case "6":
                     CalculadoraLogaritmo.CalculadoraL();
+                    break;
+
+                case "7":
+                    SalarioVendedor.CalcularSalario();
                     break;
 
                 case "12":
