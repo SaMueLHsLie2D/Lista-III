@@ -11,10 +11,6 @@ class Estacionamento
         Console.Write("Digite o total de rodas no estacionamento: ");
         int totalRodas = Convert.ToInt32(Console.ReadLine());
 
-        // Resolvendo o sistema de equações:
-        // carros + motos = totalVeiculos
-        // 4*carros + 2*motos = totalRodas
-
         int motos = (totalRodas - (4 * totalVeiculos)) / -2;
         int carros = totalVeiculos - motos;
 
