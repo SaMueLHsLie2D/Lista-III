@@ -1,4 +1,5 @@
 using System;
+using System.Runtime.CompilerServices;
 
 class Program
 {
@@ -18,6 +19,8 @@ class Program
             Console.WriteLine("6 - Calculadora de Logaritmo");
             Console.WriteLine("7 - Calculadora de Salário de Vendedor");
             Console.WriteLine("8 - Calculadora de Estacionamento");
+            Console.WriteLine("9 - Conversor de Tempo");
+            Console.WriteLine("10 - Calculadora de Médias");
             Console.WriteLine("11 - Sair");
             Console.Write("Escolha uma opção: ");
 
@@ -55,6 +58,14 @@ class Program
 
                 case "8":
                     Estacionamento.CalcularVeiculos();
+                    break;
+                
+                case "9":
+                    ConversorTempo.ConversorT();
+                    break;
+
+                case "10":
+                    CalculadoraMedias.CalculadoraM();
                     break;
 
                 case "11":
