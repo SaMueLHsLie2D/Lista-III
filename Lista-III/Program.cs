@@ -17,7 +17,8 @@ class Program
             Console.WriteLine("5 - Calculadora de Salário Bruto");
             Console.WriteLine("6 - Calculadora de Logaritmo");
             Console.WriteLine("7 - Calculadora de Salário de Vendedor");
-            Console.WriteLine("12 - Sair");
+            Console.WriteLine("8 - Calculadora de Estacionamento");
+            Console.WriteLine("11 - Sair");
             Console.Write("Escolha uma opção: ");
 
             string opcao = Console.ReadLine()?.Trim() ?? string.Empty;
@@ -52,7 +53,11 @@ class Program
                     SalarioVendedor.CalcularSalario();
                     break;
 
-                case "12":
+                case "8":
+                    Estacionamento.CalcularVeiculos();
+                    break;
+
+                case "11":
                     continuar = false;
                     Console.WriteLine("Saindo... Obrigado por usar o programa!");
                     break;
