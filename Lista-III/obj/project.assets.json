@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samue\\Desktop\\Gestão e qualidade de software\\Atividades\\Lista-III\\Lista-III\\Lista-III.csproj",
+      "projectUniqueName": "C:\\Users\\samue\\Documents\\GitHub\\Lista-III\\Lista-III\\Lista-III.csproj",
       "projectName": "Lista-III",
-      "projectPath": "C:\\Users\\samue\\Desktop\\Gestão e qualidade de software\\Atividades\\Lista-III\\Lista-III\\Lista-III.csproj",
+      "projectPath": "C:\\Users\\samue\\Documents\\GitHub\\Lista-III\\Lista-III\\Lista-III.csproj",
       "packagesPath": "C:\\Users\\samue\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samue\\Desktop\\Gestão e qualidade de software\\Atividades\\Lista-III\\Lista-III\\obj\\",
+      "outputPath": "C:\\Users\\samue\\Documents\\GitHub\\Lista-III\\Lista-III\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\samue\\AppData\\Roaming\\NuGet\\NuGet.Config"

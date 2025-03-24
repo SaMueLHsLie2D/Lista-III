@@ -1,4 +1,5 @@
 using System;
+using System.Runtime.CompilerServices;
 
 class Program
 {
@@ -17,6 +18,7 @@ class Program
             Console.WriteLine("5 - Calculadora de Salário Bruto");
             Console.WriteLine("6 - Calculadora de Logaritmo");
             Console.WriteLine("7 - Calculadora de Salário de Vendedor");
+            Console.WriteLine("8 - Calculadora de Estacionamento");
             Console.WriteLine("12 - Sair");
             Console.Write("Escolha uma opção: ");
 
@@ -50,6 +52,10 @@ class Program
 
                 case "7":
                     SalarioVendedor.CalcularSalario();
+                    break;
+
+                case "8":
+                    Estacionamento.CalcularVeiculos();
                     break;
 
                 case "12":
