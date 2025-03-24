@@ -19,7 +19,9 @@ class Program
             Console.WriteLine("6 - Calculadora de Logaritmo");
             Console.WriteLine("7 - Calculadora de Salário de Vendedor");
             Console.WriteLine("8 - Calculadora de Estacionamento");
-            Console.WriteLine("12 - Sair");
+            Console.WriteLine("9 - Conversor de Tempo");
+            Console.WriteLine("10 - Calculadora de Médias");
+            Console.WriteLine("11 - Sair");
             Console.Write("Escolha uma opção: ");
 
             string opcao = Console.ReadLine()?.Trim() ?? string.Empty;
@@ -58,7 +60,15 @@ class Program
                     Estacionamento.CalcularVeiculos();
                     break;
 
-                case "12":
+                case "9":
+                    ConversorTempo.ConversorT();
+                    break;
+
+                case "10":
+                    CalculadoraMedias.CalculadoraM();
+                    break;
+
+                case "11":
                     continuar = false;
                     Console.WriteLine("Saindo... Obrigado por usar o programa!");
                     break;
