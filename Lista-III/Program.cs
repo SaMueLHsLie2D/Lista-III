@@ -11,15 +11,15 @@ class Program
         {
             Console.Clear();
             Console.WriteLine("======= MENU =======");
-            Console.WriteLine("1 - Calculadora de média aritmética");
-            Console.WriteLine("2 - Calculadora de 10% de acréscimo no preço");
-            Console.WriteLine("3 - Conversor de Temperatura");
-            Console.WriteLine("4 - Calculadora de Juros Compostos");
-            Console.WriteLine("5 - Calculadora de Salário Bruto");
-            Console.WriteLine("6 - Calculadora de Logaritmo");
-            Console.WriteLine("7 - Calculadora de Salário de Vendedor");
-            Console.WriteLine("8 - Calculadora de Estacionamento");
-            Console.WriteLine("9 - Conversor de Tempo");
+            Console.WriteLine("01 - Calculadora de média aritmética");
+            Console.WriteLine("02 - Calculadora de 10% de acréscimo no preço");
+            Console.WriteLine("03 - Conversor de Temperatura");
+            Console.WriteLine("04 - Calculadora de Juros Compostos");
+            Console.WriteLine("05 - Calculadora de Salário Bruto");
+            Console.WriteLine("06 - Calculadora de Logaritmo");
+            Console.WriteLine("07 - Calculadora de Salário de Vendedor");
+            Console.WriteLine("08 - Calculadora de Estacionamento");
+            Console.WriteLine("09 - Conversor de Tempo");
             Console.WriteLine("10 - Calculadora de Médias");
             Console.WriteLine("11 - Sair");
             Console.Write("Escolha uma opção: ");
@@ -59,7 +59,7 @@ class Program
                 case "8":
                     Estacionamento.CalcularVeiculos();
                     break;
-                
+
                 case "9":
                     ConversorTempo.ConversorT();
                     break;
