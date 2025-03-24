@@ -1,24 +1,22 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\samue\\Documents\\GitHub\\Lista-III\\Lista-III\\Lista-III.csproj": {}
+    "c:\\Users\\samue\\Documents\\GitHub\\Lista-III\\Lista-III\\Lista-III.csproj": {}
   },
   "projects": {
-    "C:\\Users\\samue\\Documents\\GitHub\\Lista-III\\Lista-III\\Lista-III.csproj": {
+    "c:\\Users\\samue\\Documents\\GitHub\\Lista-III\\Lista-III\\Lista-III.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samue\\Documents\\GitHub\\Lista-III\\Lista-III\\Lista-III.csproj",
+        "projectUniqueName": "c:\\Users\\samue\\Documents\\GitHub\\Lista-III\\Lista-III\\Lista-III.csproj",
         "projectName": "Lista-III",
-        "projectPath": "C:\\Users\\samue\\Documents\\GitHub\\Lista-III\\Lista-III\\Lista-III.csproj",
+        "projectPath": "c:\\Users\\samue\\Documents\\GitHub\\Lista-III\\Lista-III\\Lista-III.csproj",
         "packagesPath": "C:\\Users\\samue\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samue\\Documents\\GitHub\\Lista-III\\Lista-III\\obj\\",
+        "outputPath": "c:\\Users\\samue\\Documents\\GitHub\\Lista-III\\Lista-III\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\samue\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
-        "originalTargetFrameworks": [
-          "net9.0"
-        ],
+        "originalTargetFrameworks": ["net9.0"],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -29,9 +27,7 @@
           }
         },
         "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
+          "warnAsError": ["NU1605"]
         },
         "restoreAuditProperties": {
           "enableAudit": "true",

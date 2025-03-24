@@ -13,3 +13,18 @@ c:\Users\samue\Desktop\Gestão e qualidade de software\Atividades\Lista-III\List
 c:\Users\samue\Desktop\Gestão e qualidade de software\Atividades\Lista-III\Lista-III\obj\Debug\net9.0\Lista-III.pdb
 c:\Users\samue\Desktop\Gestão e qualidade de software\Atividades\Lista-III\Lista-III\obj\Debug\net9.0\Lista-III.genruntimeconfig.cache
 c:\Users\samue\Desktop\Gestão e qualidade de software\Atividades\Lista-III\Lista-III\obj\Debug\net9.0\ref\Lista-III.dll
+c:\Users\samue\Documents\GitHub\Lista-III\Lista-III\bin\Debug\net9.0\Lista-III.exe
+c:\Users\samue\Documents\GitHub\Lista-III\Lista-III\bin\Debug\net9.0\Lista-III.deps.json
+c:\Users\samue\Documents\GitHub\Lista-III\Lista-III\bin\Debug\net9.0\Lista-III.runtimeconfig.json
+c:\Users\samue\Documents\GitHub\Lista-III\Lista-III\bin\Debug\net9.0\Lista-III.dll
+c:\Users\samue\Documents\GitHub\Lista-III\Lista-III\bin\Debug\net9.0\Lista-III.pdb
+c:\Users\samue\Documents\GitHub\Lista-III\Lista-III\obj\Debug\net9.0\Lista-III.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\samue\Documents\GitHub\Lista-III\Lista-III\obj\Debug\net9.0\Lista-III.AssemblyInfoInputs.cache
+c:\Users\samue\Documents\GitHub\Lista-III\Lista-III\obj\Debug\net9.0\Lista-III.AssemblyInfo.cs
+c:\Users\samue\Documents\GitHub\Lista-III\Lista-III\obj\Debug\net9.0\Lista-III.csproj.CoreCompileInputs.cache
+c:\Users\samue\Documents\GitHub\Lista-III\Lista-III\obj\Debug\net9.0\Lista-III.sourcelink.json
+c:\Users\samue\Documents\GitHub\Lista-III\Lista-III\obj\Debug\net9.0\Lista-III.dll
+c:\Users\samue\Documents\GitHub\Lista-III\Lista-III\obj\Debug\net9.0\refint\Lista-III.dll
+c:\Users\samue\Documents\GitHub\Lista-III\Lista-III\obj\Debug\net9.0\Lista-III.pdb
+c:\Users\samue\Documents\GitHub\Lista-III\Lista-III\obj\Debug\net9.0\Lista-III.genruntimeconfig.cache
+c:\Users\samue\Documents\GitHub\Lista-III\Lista-III\obj\Debug\net9.0\ref\Lista-III.dll
